@@ -1,7 +1,7 @@
 # Building python2 executable in CentOS7
 
 
-##Install pyinstaller 
+## Install pyinstaller 
 
 ###Get PyInstaller for python2
 https://pypi.org/project/pyinstaller/2.0/#files
@@ -33,7 +33,8 @@ drwxr-xr-x. 4 admin admin  101 Aug  8  2012 support
 drwxr-xr-x. 2 admin admin 4096 Aug  8  2012 utils
 [root@buildserver pyinstaller-2.0]#
  
-#### python pyinstaller.py /path/to/yourscript.py
+## Example Command to build:
+python pyinstaller.py /path/to/yourscript.py
  
  
 ## Verify pyinstaller working
