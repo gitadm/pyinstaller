@@ -1,5 +1,5 @@
 # Building python2 executable in CentOS7
-=========================================
+
 
 ##Install pyinstaller 
 
