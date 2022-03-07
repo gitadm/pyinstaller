@@ -34,7 +34,7 @@
        drwxr-xr-x. 2 admin admin 4096 Aug  8  2012 utils
        [root@buildserver pyinstaller-2.0]#
  
-## Example Command to build:
+## Example Command to build: 03/06/2022
 python pyinstaller.py /path/to/yourscript.py
  
  
